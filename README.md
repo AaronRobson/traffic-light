@@ -7,7 +7,7 @@ https://store.arduino.cc/arduino-iot-mkr1000-bundle
 https://www.pubnub.com/blog/2016-08-10-getting-to-know-arduinos-mkr1000/
 
 # relays
-
+https://store.arduino.cc/arduino-4-relays-shield
 
 # traffic light
 http://www.ledandon.com/stack_lights_continuous/LD-52XX-100.html
