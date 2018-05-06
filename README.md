@@ -1,5 +1,5 @@
 # traffic-light
-A system for outputting to an industrial traffic light poll feedback from a build server.
+A system for outputting to an industrial traffic light; feedback from a build server.
 
 # control board
 https://store.arduino.cc/arduino-mkr1000-with-headers-mounted
